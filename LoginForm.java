@@ -37,7 +37,7 @@ public class LoginForm {
         frame.add(passText);
         frame.add(loginButton);
 
-        frame.setSize(400, 250);
+        frame.setSize(400, 300);
         frame.setLayout(null);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setVisible(true);
