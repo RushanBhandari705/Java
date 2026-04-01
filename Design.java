@@ -1,15 +1,7 @@
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.BorderFactory;
-import java.awt.Color;
-import javax.swing.border.Border;
-import javax.swing.JLabel;
-import javax.swing.JTextField;
-import javax.swing.JButton;
-import javax.swing.JRadioButton;
-import javax.swing.ButtonGroup;
-import javax.swing.JComboBox;
-import javax.swing.JTextArea;
+
 
 public class Design{
     public static void main (String[]args) {
