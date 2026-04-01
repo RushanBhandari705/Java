@@ -14,7 +14,7 @@ import javax.swing.JTextArea;
 public class Design{
     public static void main (String[]args) {
         JFrame frame = new JFrame("Signup");
-        frame.setSize(800,800);
+        frame.setSize(900,800);
         frame.setLayout(null);
         
         JPanel panel = new JPanel();
