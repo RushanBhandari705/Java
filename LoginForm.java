@@ -4,7 +4,7 @@ import java.awt.event.*;
 public class LoginForm {
     public static void main(String[] args) {
 
-        JFrame frame = new JFrame("Login Form");
+        JFrame frame = new JFrame("Login Form:");
 
         JLabel userLabel = new JLabel("Username:");
         JLabel passLabel = new JLabel("Password:");
