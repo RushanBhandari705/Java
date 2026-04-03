@@ -6,7 +6,7 @@ import javax.swing.JButton;
 public class App {
     public static void main(String[] args) {
         JFrame frame = new JFrame("Signup Form");
-        frame.setSize(500,500);
+        frame.setSize(600,500);
 
         frame.setVisible(true);
     }
