@@ -7,7 +7,7 @@ import javax.swing.JRadioButton;
 public class Form {
     public static void main(String[] args) {
         JFrame frame = new JFrame("RegisterForm");
-        frame.setSize(900,800);
+        frame.setSize(900,900);
         frame.setLayout(null);
         
         JLabel FnameLabel = new JLabel("FirstName:");
