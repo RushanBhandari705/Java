@@ -11,7 +11,7 @@ public class ColorChanger {
         JButton redBtn = new JButton("Red");
         JButton blueBtn = new JButton("Blue");
 
-        redBtn.setBounds(50, 200, 100, 40);
+        redBtn.setBounds(60, 200, 100, 40);
         blueBtn.setBounds(200, 200, 100, 40);
 
         frame.setLayout(null);
